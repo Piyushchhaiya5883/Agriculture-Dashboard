@@ -2,7 +2,7 @@
 
 This project presents a comprehensive Agriculture Dashboard built using Tableau to visualize key metrics related to crop production, profit, revenue methods, and regional yield data. It is designed to help stakeholders in the agriculture sector make data-driven decisions based on visual insights.
 
-
+![alt text](https://github.com/Piyushchhaiya5883/Agriculture-Dashboard/blob/b70a25a76623aef77ef1f8a3258b0e011b4296a6/tableau%20agriculture%20dashboard.png)
 
 
 📊 Dashboard Overview
